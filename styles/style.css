@@ -1,0 +1,20 @@
+/* google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.babess-font-s{
+    font-family: 'Bebas Neue', cursive;
+}
+.text-yellow-s{
+    color: #FABE4C;
+}
+
+.title-color-s{
+    color: #363958
+}
+.text-color-s{
+    color: #3E3E3E;
+}
+.title-yellow-s{
+    color:#FABE4C;
+    color: red;
+}
